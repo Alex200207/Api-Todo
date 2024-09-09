@@ -1,4 +1,4 @@
-import {createPool} from 'mysql2';
+import {createPool} from 'mysql2';// createPool es una función que crea un pool de conexiones a la base de datos
 
 // Carga las variables de entorno
 import dotenv from 'dotenv';
